@@ -1,0 +1,10 @@
+# --- Core ---
+python-dotenv
+mistralai
+pypdf
+
+# --- Agno Agent Framework ---
+agno
+notion-client
+
+
